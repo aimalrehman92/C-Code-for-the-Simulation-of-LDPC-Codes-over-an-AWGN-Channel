@@ -1,0 +1,342 @@
+--------------------Simulation Number : 1 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 2 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 3 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 4 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 5 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 6 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 7 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 8 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 9 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 10 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 11 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 12 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 13 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 14 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 15 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 16 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 17 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 18 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 19 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 20 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 21 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 22 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 23 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 24 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 25 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 26 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 27 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 28 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 29 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 30 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 31 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 32 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 33 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 34 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 35 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 36 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 37 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 38 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 9
+
+
+ ### OUTER ITERATION NUMBER: 2   ####
+
+
+Iter # 2: Errors= 9
+
+
+ ### OUTER ITERATION NUMBER: 3   ####
+
+
+Iter # 3: Errors= 9
+
+
+ ### OUTER ITERATION NUMBER: 4   ####
+
+
+Iter # 4: Errors= 9
+
+
+ ### OUTER ITERATION NUMBER: 5   ####
+
+
+Iter # 5: Errors= 9
+
+
+ ### OUTER ITERATION NUMBER: 6   ####
+
+--------------------Simulation Number : 39 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 0--------------------Simulation Number : 40 ---------------
+
+
+
+ ### OUTER ITERATION NUMBER: 1   ####
+
+
+Iter # 1: Errors= 4
+
+
+ ### OUTER ITERATION NUMBER: 2   ####
+
+
+Iter # 2: Errors= 4
+
+
+ ### OUTER ITERATION NUMBER: 3   ####
+
+
+Iter # 3: Errors= 4
+
+
+ ### OUTER ITERATION NUMBER: 4   ####
+
+
+Iter # 4: Errors= 4
+
+
+ ### OUTER ITERATION NUMBER: 5   ####
+
+
+Iter # 5: Errors= 4
+
+
+ ### OUTER ITERATION NUMBER: 6   ####
+
+
+
+ Bit Error Rate : 0.000000
+ Power (dB) : 0.100000
