@@ -1,4 +1,4 @@
-# Code-for-the-Simulation-of-LDPC-Codes-over-an-AWGN-Channel
+# Code-for-the-Simulation-of-LDPC-Codes-on-AWGN-Channel
 This repository contains C++ simulation of LDPC codes on AWGN channel with channel gains that follow Rayleigh distribution.
 
 Brief discriptions of files:
